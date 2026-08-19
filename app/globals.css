@@ -1,0 +1,174 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ---------------------------------------------------------------- tokens */
+
+@theme static {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-newsreader), ui-serif, Georgia, "Times New Roman", serif;
+  --font-mono: var(--font-mono-plex), ui-monospace, SFMono-Regular, monospace;
+
+  /* Paper & ink — warm neutrals, print-derived */
+  --color-paper: oklch(99% 0.004 95);
+  --color-paper-2: oklch(97.2% 0.006 95);
+  --color-paper-3: oklch(94.6% 0.008 95);
+  --color-ink: oklch(21% 0.015 250);
+  --color-ink-2: oklch(38% 0.014 250);
+  --color-muted: oklch(52% 0.012 250);
+  --color-line: oklch(89% 0.008 250);
+  --color-line-strong: oklch(80% 0.01 250);
+
+  /* Brand — deep academic blue with a cyan reading light */
+  --color-brand: oklch(38% 0.09 245);
+  --color-brand-2: oklch(48% 0.1 240);
+  --color-brand-soft: oklch(93% 0.03 240);
+  --color-accent: oklch(62% 0.12 210);
+
+  --radius-card: 0.75rem;
+
+  --shadow-card: 0 1px 2px oklch(21% 0.015 250 / 0.04), 0 8px 24px -12px oklch(21% 0.015 250 / 0.14);
+  --shadow-lift: 0 2px 6px oklch(21% 0.015 250 / 0.06), 0 18px 40px -18px oklch(21% 0.015 250 / 0.22);
+
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.dark {
+  --color-paper: oklch(17.5% 0.014 250);
+  --color-paper-2: oklch(21% 0.016 250);
+  --color-paper-3: oklch(25% 0.018 250);
+  --color-ink: oklch(96% 0.006 250);
+  --color-ink-2: oklch(84% 0.008 250);
+  --color-muted: oklch(68% 0.012 250);
+  --color-line: oklch(30% 0.016 250);
+  --color-line-strong: oklch(40% 0.02 250);
+
+  --color-brand: oklch(76% 0.09 235);
+  --color-brand-2: oklch(66% 0.1 235);
+  --color-brand-soft: oklch(28% 0.04 240);
+  --color-accent: oklch(72% 0.12 205);
+
+  --shadow-card: 0 1px 2px oklch(0% 0 0 / 0.3), 0 10px 30px -14px oklch(0% 0 0 / 0.65);
+  --shadow-lift: 0 2px 8px oklch(0% 0 0 / 0.35), 0 22px 48px -20px oklch(0% 0 0 / 0.75);
+}
+
+/* ------------------------------------------------------------------ base */
+
+@layer base {
+  * {
+    border-color: var(--color-line);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: "cv05" 1, "ss01" 1;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background-color: var(--color-brand-soft);
+    color: var(--color-ink);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+/* --------------------------------------------------------------- helpers */
+
+@utility eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+
+@utility rule-grid {
+  background-image: linear-gradient(to right, var(--color-line) 1px, transparent 1px);
+  background-size: 25% 100%;
+}
+
+/* Hairline that fades out — used under section headers */
+@utility hairline {
+  height: 1px;
+  background: linear-gradient(to right, var(--color-line-strong), transparent);
+}
+
+.prose-lab p {
+  color: var(--color-ink-2);
+  line-height: 1.75;
+}
+
+.prose-lab p + p {
+  margin-top: 1rem;
+}
+
+/* Scroll-in transition. Scoped to html.js so the no-JS render stays visible. */
+.js .reveal {
+  opacity: 0;
+  transform: translateY(var(--reveal-y, 16px));
+  transition:
+    opacity 0.65s var(--ease-out-soft),
+    transform 0.65s var(--ease-out-soft);
+  transition-delay: var(--reveal-delay, 0s);
+  will-change: opacity, transform;
+}
+
+.js .reveal.is-visible {
+  opacity: 1;
+  transform: none;
+  will-change: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* Thin scrollbar for the long publication list */
+.thin-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-line-strong) transparent;
+}
