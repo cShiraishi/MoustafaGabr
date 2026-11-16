@@ -7,9 +7,9 @@
     "Chemical Biology"
   ],
   "metrics": {
-    "citations": 2630,
+    "citations": 2668,
     "hIndex": 29,
-    "i10Index": 71
+    "i10Index": 73
   },
   "citationsPerYear": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "year": 2020,
-      "citations": 145
+      "citations": 144
     },
     {
       "year": 2021,
@@ -50,22 +50,31 @@
     },
     {
       "year": 2023,
-      "citations": 246
+      "citations": 245
     },
     {
       "year": 2024,
-      "citations": 321
+      "citations": 323
     },
     {
       "year": 2025,
-      "citations": 525
+      "citations": 522
     },
     {
       "year": 2026,
-      "citations": 635
+      "citations": 676
     }
   ],
   "publications": [
+    {
+      "id": "ai-assisted-discovery-and-optimization-of-small-molecule-trem2-agonists--2026",
+      "title": "AI-assisted discovery and optimization of small-molecule TREM2 agonists with functional microglial activity",
+      "authors": "S Cho, TV Szalai, F El Gaamouch, D Bajusz, GM Keserű, M Gabr",
+      "venue": "ACS Medicinal Chemistry Letters 17 (2), 366-373",
+      "year": 2026,
+      "citations": 13,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:8AbLer7MMksC"
+    },
     {
       "id": "structure-based-virtual-screening-identifies-trem2-targeted-small-molecu-2026",
       "title": "Structure‐Based Virtual Screening Identifies TREM2‐Targeted Small Molecules that Enhance Microglial Phagocytosis",
@@ -74,15 +83,6 @@
       "year": 2026,
       "citations": 13,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:sSrBHYA8nusC"
-    },
-    {
-      "id": "ai-assisted-discovery-and-optimization-of-small-molecule-trem2-agonists--2026",
-      "title": "AI-assisted discovery and optimization of small-molecule TREM2 agonists with functional microglial activity",
-      "authors": "S Cho, TV Szalai, F El Gaamouch, D Bajusz, GM Keserű, M Gabr",
-      "venue": "ACS Medicinal Chemistry Letters 17 (2), 366-373",
-      "year": 2026,
-      "citations": 11,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:8AbLer7MMksC"
     },
     {
       "id": "ai-guided-design-of-cyclic-peptide-binders-targeting-trem2-using-cyclerf-2026",
@@ -94,6 +94,24 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:LPZeul_q3PIC"
     },
     {
+      "id": "car-t-cell-therapy-beyond-cancer-current-status-challenges-and-future-pr-2026",
+      "title": "CAR T cell therapy beyond cancer: current status, challenges and future prospects",
+      "authors": "S Upadhyay, S Cho, K Upmanyu, MT Gabr",
+      "venue": "Signal Transduction and Targeted Therapy 11 (1), 319",
+      "year": 2026,
+      "citations": 5,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:uc_IGeMz5qoC"
+    },
+    {
+      "id": "small-molecule-agonists-of-trem2-reprogram-microglia-and-protect-synapse-2026",
+      "title": "Small Molecule Agonists of TREM2 Reprogram Microglia and Protect Synapses in Human Alzheimer’s Models",
+      "authors": "H Nada, S Yuan, F El Gaamouch, S Cho, MT Gabr",
+      "venue": "European Journal of Medicinal Chemistry Reports, 100354",
+      "year": 2026,
+      "citations": 5,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:_B80troHkn4C"
+    },
+    {
       "id": "structural-optimization-of-chi3l1-inhibitors-with-improved-pharmacokinet-2026",
       "title": "Structural optimization of CHI3L1 inhibitors with improved pharmacokinetics and functional activity in 3D glioblastoma models",
       "authors": "B Kaur, H Nada, MT Gabr",
@@ -103,15 +121,6 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:JoZmwDi-zQgC"
     },
     {
-      "id": "small-molecule-agonists-of-trem2-reprogram-microglia-and-protect-synapse-2026",
-      "title": "Small Molecule Agonists of TREM2 Reprogram Microglia and Protect Synapses in Human Alzheimer’s Models",
-      "authors": "H Nada, S Yuan, F El Gaamouch, S Cho, MT Gabr",
-      "venue": "European Journal of Medicinal Chemistry Reports, 100354",
-      "year": 2026,
-      "citations": 4,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:_B80troHkn4C"
-    },
-    {
       "id": "structure-guided-discovery-of-chi3l1-inhibitors-from-ultralarge-chemical-2026",
       "title": "Structure-guided discovery of CHI3L1 inhibitors from ultralarge chemical spaces for glioblastoma therapy",
       "authors": "B Kaur, F Sindt, L Zhang, D Rognan, M Gabr",
@@ -119,6 +128,15 @@
       "year": 2026,
       "citations": 4,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:K3LRdlH-MEoC"
+    },
+    {
+      "id": "redefining-chi3l1-therapeutic-opportunities-at-the-crossroads-of-immune--2026",
+      "title": "Redefining CHI3L1: Therapeutic Opportunities at the Crossroads of Immune Suppression and Disease Progression",
+      "authors": "K Upmanyu, S Upadhyay, MT Gabr",
+      "venue": "Medicinal Research Reviews",
+      "year": 2026,
+      "citations": 4,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:t7zJ5fGR-2UC"
     },
     {
       "id": "overcoming-the-undruggable-barrier-structure-guided-discovery-of-a-poten-2026",
@@ -139,6 +157,15 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:5awf1xo2G04C"
     },
     {
+      "id": "peptides-as-programmable-molecular-scaffolds-from-chemical-synthesis-and-2026",
+      "title": "Peptides as programmable molecular scaffolds: from chemical synthesis and engineering to translational medicine",
+      "authors": "S Yuan, B Kaur, NS Fuchs, S Cho, AN Abdo, MT Gabr",
+      "venue": "RSC Chemical Biology 7 (7), 1237-1252",
+      "year": 2026,
+      "citations": 3,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:_Re3VWB3Y0AC"
+    },
+    {
       "id": "discovery-of-a-chi3l1-targeted-small-molecule-modulating-neuroinflammati-2026",
       "title": "Discovery of a CHI3L1-targeted small molecule modulating neuroinflammation in Alzheimer's disease via DNA-encoded library (DEL) screening",
       "authors": "B Kaur, L Zhang, H Nada, L Calvo-Barreiro, MT Gabr",
@@ -157,15 +184,6 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:WqliGbK-hY8C"
     },
     {
-      "id": "redefining-chi3l1-therapeutic-opportunities-at-the-crossroads-of-immune--2026",
-      "title": "Redefining CHI3L1: Therapeutic Opportunities at the Crossroads of Immune Suppression and Disease Progression",
-      "authors": "K Upmanyu, S Upadhyay, MT Gabr",
-      "venue": "Medicinal Research Reviews",
-      "year": 2026,
-      "citations": 3,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:t7zJ5fGR-2UC"
-    },
-    {
       "id": "small-molecule-modulation-of-nos1ap-for-molecularly-targeted-glioblastom-2026",
       "title": "Small molecule modulation of NOS1AP for molecularly targeted glioblastoma therapy",
       "authors": "AN Abdo, S Cho, M Gabr",
@@ -173,15 +191,6 @@
       "year": 2026,
       "citations": 2,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:uWiczbcajpAC"
-    },
-    {
-      "id": "car-t-cell-therapy-beyond-cancer-current-status-challenges-and-future-pr-2026",
-      "title": "CAR T cell therapy beyond cancer: current status, challenges and future prospects",
-      "authors": "S Upadhyay, S Cho, K Upmanyu, MT Gabr",
-      "venue": "Signal Transduction and Targeted Therapy 11 (1), 319",
-      "year": 2026,
-      "citations": 2,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:uc_IGeMz5qoC"
     },
     {
       "id": "from-dna-encoded-library-del-screening-to-in-vivo-validation-lilrb4-ilt3-2026",
@@ -193,15 +202,6 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:-_dYPAW6P2MC"
     },
     {
-      "id": "peptides-as-programmable-molecular-scaffolds-from-chemical-synthesis-and-2026",
-      "title": "Peptides as programmable molecular scaffolds: from chemical synthesis and engineering to translational medicine",
-      "authors": "S Yuan, B Kaur, NS Fuchs, S Cho, AN Abdo, MT Gabr",
-      "venue": "RSC Chemical Biology 7 (7), 1237-1252",
-      "year": 2026,
-      "citations": 2,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:_Re3VWB3Y0AC"
-    },
-    {
       "id": "identification-of-a-small-molecule-capon-binder-using-affinity-selection-2026",
       "title": "Identification of a small molecule CAPON binder using affinity selection-mass spectrometry screening",
       "authors": "AN Abdo, H Nada, M Gabr",
@@ -209,6 +209,15 @@
       "year": 2026,
       "citations": 2,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:ZuybSZzF8UAC"
+    },
+    {
+      "id": "a-overlapping-ectodomain-binding-of-the-clinical-stage-trem2-agonist-vg--2026",
+      "title": "Aβ-Overlapping Ectodomain Binding of the Clinical-Stage TREM2 Agonist VG-3927",
+      "authors": "S Cho, MT Gabr",
+      "venue": "bioRxiv, 2026.03. 02.709194",
+      "year": 2026,
+      "citations": 2,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:LjlpjdlvIbIC"
     },
     {
       "id": "high-throughput-fragment-screening-identifies-a-new-small-molecule-scaff-2026",
@@ -292,6 +301,15 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:uJ-U7cs_P_0C"
     },
     {
+      "id": "identification-of-a-novel-a-overlapping-binding-site-on-the-trem2-ectodo-2026",
+      "title": "Identification of a novel aβ-overlapping binding site on the TREM2 Ectodomain engaged by the small-molecule agonist VG-3927",
+      "authors": "S Cho, MT Gabr",
+      "venue": "Bioorganic & Medicinal Chemistry Letters, 130712",
+      "year": 2026,
+      "citations": 1,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:35r97b3x0nAC"
+    },
+    {
       "id": "discovery-of-ilt3-lilrb4-small-molecule-inhibitors-by-affinity-selection-2026",
       "title": "Discovery of ILT3 (LILRB4) Small Molecule Inhibitors by Affinity Selection-Mass Spectrometry Reveals Druggability of a Neuroimmune Checkpoint in Alzheimer’s Disease",
       "authors": "SA Abdel-Rahman, NA Murugan, MT Gabr",
@@ -362,6 +380,15 @@
       "year": 2026,
       "citations": 1,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:tkaPQYYpVKoC"
+    },
+    {
+      "id": "sequential-one-pot-synthesis-of-diversely-functionalized-1-3-5-triazines-2026",
+      "title": "Sequential One-Pot Synthesis of diversely functionalized 1, 3, 5-Triazines via cyanuric chloride with amino groups and boronic acids",
+      "authors": "S Yuan, MT Gabr",
+      "venue": "ACS omega 11 (1), 2163-2169",
+      "year": 2026,
+      "citations": 1,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:tOudhMTPpwUC"
     },
     {
       "id": "affinity-selection-mass-spectrometry-discovery-of-small-molecule-ilt3-li-2026",
@@ -454,15 +481,6 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:fEOibwPWpKIC"
     },
     {
-      "id": "identification-of-a-novel-a-overlapping-binding-site-on-the-trem2-ectodo-2026",
-      "title": "Identification of a novel aβ-overlapping binding site on the TREM2 Ectodomain engaged by the small-molecule agonist VG-3927",
-      "authors": "S Cho, MT Gabr",
-      "venue": "Bioorganic & Medicinal Chemistry Letters, 130712",
-      "year": 2026,
-      "citations": 0,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:35r97b3x0nAC"
-    },
-    {
       "id": "development-of-a-high-throughput-tr-fret-assay-for-identification-of-sma-2026",
       "title": "Development of a high-throughput TR-FRET assay for identification of small molecule inhibitors of the LILRB4 (ILT3)-SCG2 immune checkpoint interaction",
       "authors": "SA Abdel-Rahman, MT Gabr",
@@ -553,15 +571,6 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:N5tVd3kTz84C"
     },
     {
-      "id": "a-overlapping-ectodomain-binding-of-the-clinical-stage-trem2-agonist-vg--2026",
-      "title": "Aβ-Overlapping Ectodomain Binding of the Clinical-Stage TREM2 Agonist VG-3927",
-      "authors": "S Cho, MT Gabr",
-      "venue": "bioRxiv, 2026.03. 02.709194",
-      "year": 2026,
-      "citations": 0,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:LjlpjdlvIbIC"
-    },
-    {
       "id": "discovery-of-ma48-a-small-molecule-inhibitor-of-capon-nos1ap-nos1-protei-2026",
       "title": "Discovery of MA48, a Small Molecule Inhibitor of CAPON (NOS1AP)-NOS1 Protein-Protein Interaction",
       "authors": "AN Abdo, H Nada, S Cho, M Gabr",
@@ -578,15 +587,6 @@
       "year": 2026,
       "citations": 0,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:dTyEYWd-f8wC"
-    },
-    {
-      "id": "sequential-one-pot-synthesis-of-diversely-functionalized-1-3-5-triazines-2026",
-      "title": "Sequential One-Pot Synthesis of Diversely Functionalized 1, 3, 5-Triazines via Cyanuric Chloride with Amino Groups and Boronic Acids",
-      "authors": "S Yuan, MT Gabr",
-      "venue": "ACS omega 11 (1), 2163-2169",
-      "year": 2026,
-      "citations": 0,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:tOudhMTPpwUC"
     },
     {
       "id": "stabilizing-the-chi3l1-gal3bp-complex-remodels-the-glioblastoma-immune-m-2026",
@@ -639,7 +639,7 @@
       "authors": "H Nada, NA Meanwell, MT Gabr",
       "venue": "Expert opinion on drug discovery 20 (2), 145-162",
       "year": 2025,
-      "citations": 24,
+      "citations": 26,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -666,7 +666,7 @@
       "authors": "H Nada, L Zhang, B Kaur, MT Gabr",
       "venue": "European journal of medicinal chemistry 297, 117960",
       "year": 2025,
-      "citations": 20,
+      "citations": 21,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -675,7 +675,7 @@
       "authors": "S Cho, F El Gaamouch, S Upadhyay, H Nada, K Kuncewicz, MT Gabr",
       "venue": "Biomedicine & Pharmacotherapy 193, 118862",
       "year": 2025,
-      "citations": 19,
+      "citations": 20,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:geHnlv5EZngC"
     },
     {
@@ -693,7 +693,7 @@
       "authors": "S Yuan, F El Gaamouch, S Cho, K Kuncewicz, H Nada, MT Gabr",
       "venue": "ACS Medicinal Chemistry Letters 16 (8), 1634-1640",
       "year": 2025,
-      "citations": 17,
+      "citations": 19,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -702,7 +702,7 @@
       "authors": "H Nada, S Yuan, F El Gaamouch, S Cho, K Kuncewicz, L Calvo-Barreiro, ...",
       "venue": "European journal of medicinal chemistry, 118358",
       "year": 2025,
-      "citations": 16,
+      "citations": 17,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -711,7 +711,7 @@
       "authors": "S Upadhyay, K Upmanyu, MT Gabr",
       "venue": "Cytokine & Growth Factor Reviews",
       "year": 2025,
-      "citations": 15,
+      "citations": 16,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:5Ul4iDaHHb8C"
     },
     {
@@ -805,6 +805,15 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:VOx2b1Wkg3QC"
     },
     {
+      "id": "virtual-screening-guided-discovery-of-small-molecule-chi3l1-inhibitors-w-2025",
+      "title": "Virtual Screening-Guided Discovery of Small-Molecule CHI3L1 Inhibitors with Functional Activity in Glioblastoma Spheroids",
+      "authors": "B Kaur, K Denzinger, L Zhang, N García-Vázquez, G Wolber, M Gabr",
+      "venue": "ACS Medicinal Chemistry Letters 16 (11), 2346-2353",
+      "year": 2025,
+      "citations": 5,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:u9iWguZQMMsC"
+    },
+    {
       "id": "tric-based-high-throughput-screening-enables-the-discovery-of-small-mole-2025",
       "title": "TRIC-Based High-Throughput Screening Enables the Discovery of Small Molecule CD28 Binders",
       "authors": "L Calvo-Barreiro, MT Gabr",
@@ -812,15 +821,6 @@
       "year": 2025,
       "citations": 5,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:NhqRSupF_l8C"
-    },
-    {
-      "id": "virtual-screening-guided-discovery-of-small-molecule-chi3l1-inhibitors-w-2025",
-      "title": "Virtual Screening-Guided Discovery of Small-Molecule CHI3L1 Inhibitors with Functional Activity in Glioblastoma Spheroids",
-      "authors": "B Kaur, K Denzinger, L Zhang, N García-Vázquez, G Wolber, M Gabr",
-      "venue": "ACS Medicinal Chemistry Letters 16 (11), 2346-2353",
-      "year": 2025,
-      "citations": 4,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:u9iWguZQMMsC"
     },
     {
       "id": "trem2-hit-discovery-using-temperature-related-intensity-change-tric-tech-2025",
@@ -839,6 +839,15 @@
       "year": 2025,
       "citations": 4,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:SP6oXDckpogC"
+    },
+    {
+      "id": "discovery-of-an-achiral-small-molecule-trem2-agonist-with-improved-pharm-2025",
+      "title": "Discovery of an Achiral Small Molecule TREM2 Agonist with Improved Pharmacokinetic Profile and Validated Target Engagement",
+      "authors": "S Yuan, FE Gaamouch, S Cho, K Kuncewicz, H Nada, MT Gabr",
+      "venue": "bioRxiv, 2025.06. 22.660908",
+      "year": 2025,
+      "citations": 4,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:nb7KW1ujOQ8C"
     },
     {
       "id": "discovery-of-a-first-in-class-slit2-binder-disrupting-the-slit2-robo1-ax-2025",
@@ -875,15 +884,6 @@
       "year": 2025,
       "citations": 3,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:uWQEDVKXjbEC"
-    },
-    {
-      "id": "discovery-of-an-achiral-small-molecule-trem2-agonist-with-improved-pharm-2025",
-      "title": "Discovery of an Achiral Small Molecule TREM2 Agonist with Improved Pharmacokinetic Profile and Validated Target Engagement",
-      "authors": "S Yuan, FE Gaamouch, S Cho, K Kuncewicz, H Nada, MT Gabr",
-      "venue": "bioRxiv, 2025.06. 22.660908",
-      "year": 2025,
-      "citations": 3,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:nb7KW1ujOQ8C"
     },
     {
       "id": "hts-oracle-experimentally-validated-ai-enabled-prioritization-for-genera-2025",
@@ -1021,6 +1021,15 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:dfsIfKJdRG4C"
     },
     {
+      "id": "novel-6-hydroxybenzothiazol-2-carboxamides-as-potent-and-selective-monoa-2024",
+      "title": "Novel 6-hydroxybenzothiazol-2-carboxamides as potent and selective monoamine oxidase B inhibitors endowed with neuroprotective activity",
+      "authors": "OM Al-Saad, M Gabr, SS Darwish, M Rullo, L Pisani, DV Miniero, ...",
+      "venue": "European Journal of Medicinal Chemistry 269, 116266",
+      "year": 2024,
+      "citations": 20,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:u_35RYKgDlwC"
+    },
+    {
       "id": "small-molecule-immunomodulators-as-next-generation-therapeutics-for-glio-2024",
       "title": "Small molecule immunomodulators as next-generation therapeutics for glioblastoma",
       "authors": "SA Abdel-Rahman, M Gabr",
@@ -1028,15 +1037,6 @@
       "year": 2024,
       "citations": 20,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:rO6llkc54NcC"
-    },
-    {
-      "id": "novel-6-hydroxybenzothiazol-2-carboxamides-as-potent-and-selective-monoa-2024",
-      "title": "Novel 6-hydroxybenzothiazol-2-carboxamides as potent and selective monoamine oxidase B inhibitors endowed with neuroprotective activity",
-      "authors": "OM Al-Saad, M Gabr, SS Darwish, M Rullo, L Pisani, DV Miniero, ...",
-      "venue": "European Journal of Medicinal Chemistry 269, 116266",
-      "year": 2024,
-      "citations": 19,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:u_35RYKgDlwC"
     },
     {
       "id": "from-virtual-screens-to-cellular-target-engagement-new-small-molecule-li-2024",
@@ -1053,7 +1053,7 @@
       "authors": "S Manzoor, MT Gabr, MS Nafie, MK Raza, A Khan, SM Nayeem, RK Arafa, ...",
       "venue": "ACS chemical neuroscience 15 (3), 539-559",
       "year": 2024,
-      "citations": 13,
+      "citations": 14,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -1116,7 +1116,7 @@
       "authors": "M Li, NJ Baumhover, D Liu, BS Cagle, F Boschetti, G Paulin, D Lee, Z Dai, ...",
       "venue": "Pharmaceutics 15 (2), 414",
       "year": 2023,
-      "citations": 62,
+      "citations": 64,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -1242,7 +1242,7 @@
       "authors": "S Manzoor, MT Gabr, B Rasool, K Pal, N Hoda",
       "venue": "Bioorganic Chemistry 116, 105354",
       "year": 2021,
-      "citations": 33,
+      "citations": 34,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -1251,7 +1251,7 @@
       "authors": "MT Gabr, G Deganutti, CA Reynolds",
       "venue": "Chemical Biology & Drug Design 97 (2), 231-236",
       "year": 2021,
-      "citations": 9,
+      "citations": 10,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -1296,7 +1296,7 @@
       "authors": "S Maramai, M Benchekroun, MT Gabr, S Yahiaoui",
       "venue": "BioMed Research International 2020 (1), 5120230",
       "year": 2020,
-      "citations": 133,
+      "citations": 135,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -1305,7 +1305,7 @@
       "authors": "MT Gabr, SS Gambhir",
       "venue": "Journal of the American Chemical Society 142 (38), 16194-16198",
       "year": 2020,
-      "citations": 47,
+      "citations": 48,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:k_IJM867U9cC"
     },
     {
@@ -1314,7 +1314,7 @@
       "authors": "MT Gabr, S Brogi",
       "venue": "Journal of Medicinal Chemistry 63 (17), 9695-9704",
       "year": 2020,
-      "citations": 34,
+      "citations": 35,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -1341,7 +1341,7 @@
       "authors": "MT Gabr, D Machalz, S Pach, G Wolber",
       "venue": "RSC Medicinal Chemistry 11 (12), 1402-1412",
       "year": 2020,
-      "citations": 16,
+      "citations": 17,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -1350,7 +1350,7 @@
       "authors": "M Gabr, K Świderek",
       "venue": "ChemMedChem 15 (23), 2273-2279",
       "year": 2020,
-      "citations": 15,
+      "citations": 16,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -1372,6 +1372,15 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:_Qo2XoVZTnwC"
     },
     {
+      "id": "discovery-of-biphenyl-pyrazole-scaffold-for-neurodegenerative-diseases-a-2020",
+      "title": "Discovery of biphenyl pyrazole scaffold for neurodegenerative diseases: A novel class of acetylcholinesterase-centered multitargeted ligands",
+      "authors": "M Gabr, NA Murugan",
+      "venue": "Bioorganic & Medicinal Chemistry Letters 30 (17), 127370",
+      "year": 2020,
+      "citations": 10,
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:4JMBOYKVnBMC"
+    },
+    {
       "id": "first-dual-binder-of-microrna-146a-and-monomeric-tau-a-novel-approach-fo-2020",
       "title": "First dual binder of microRNA-146a and monomeric tau: a novel approach for multitargeted therapeutics for neurodegenerative diseases",
       "authors": "MT Gabr, F Barbault",
@@ -1379,15 +1388,6 @@
       "year": 2020,
       "citations": 10,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:RHpTSmoSYBkC"
-    },
-    {
-      "id": "discovery-of-biphenyl-pyrazole-scaffold-for-neurodegenerative-diseases-a-2020",
-      "title": "Discovery of biphenyl pyrazole scaffold for neurodegenerative diseases: A novel class of acetylcholinesterase-centered multitargeted ligands",
-      "authors": "M Gabr, NA Murugan",
-      "venue": "Bioorganic & Medicinal Chemistry Letters 30 (17), 127370",
-      "year": 2020,
-      "citations": 9,
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:4JMBOYKVnBMC"
     },
     {
       "id": "new-synthesis-of-6-18f-fluoromaltotriose-for-positron-emission-tomograph-2020",
@@ -1422,7 +1422,7 @@
       "authors": "MM Ibrahim, MT Gabr",
       "venue": "Neural regeneration research 14 (3), 437",
       "year": 2019,
-      "citations": 214,
+      "citations": 215,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -1557,7 +1557,7 @@
       "authors": "MT Gabr, NS El-Gohary, ER El-Bendary, N Ni, MI Shaaban, ...",
       "venue": "Synthetic Communications 48 (22), 2899-2911",
       "year": 2018,
-      "citations": 21,
+      "citations": 22,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -1665,7 +1665,7 @@
       "authors": "MT Gabr, NS El-Gohary, ER El-Bendary, MM El-Kerdawy, N Ni",
       "venue": "EXCLI journal 16, 1114",
       "year": 2017,
-      "citations": 29,
+      "citations": 30,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -1692,7 +1692,7 @@
       "authors": "JL Reedy, DK Hedlund, MT Gabr, GM Henning, FC Pigge, MK Schultz",
       "venue": "Bioconjugate chemistry 27 (10), 2424",
       "year": 2016,
-      "citations": 40,
+      "citations": 41,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1755,7 +1755,7 @@
       "authors": "MT Gabr, NS El-Gohary, ER El-Bendary, MM El-Kerdawy",
       "venue": "European journal of medicinal chemistry 85, 576-592",
       "year": 2014,
-      "citations": 82,
+      "citations": 81,
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hw7IDDoAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=hw7IDDoAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1859,5 +1859,5 @@
     }
   ],
   "source": "scrape",
-  "fetchedAt": "2026-11-02T13:32:12.969Z"
+  "fetchedAt": "2026-11-16T13:41:12.613Z"
 }
